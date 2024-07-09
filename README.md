@@ -2,9 +2,16 @@
 
 # About Me 
 <li> 
-🔭 I’m currently pursuing B Tech in CSE(AIML)
-<li>
-🌱 I’m currently working as President @ACADS, CSE(AIML & DS) Department, Kit's College of Engineering
-<li>
-⚡ Additionally, I create educational content on engineering, reaching over 100k followers on Instagram
+🔭 I’m currently pursuing B Tech in CSE(AI)
+<li>Highly motivated data analyst
+  <li>
+Strong problem-solving skills
+    <li>
+Experienced in data visualization
+      <li>
+Committed to continuous learning
+        <li>
+Proficient in leveraging analytical tools
+          <li>
+Adept at driving data-driven decision-making
 </li>
