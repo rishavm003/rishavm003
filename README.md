@@ -45,3 +45,16 @@ Adept at driving data-driven decision-making
  Mathematics: Proficient in statistical analysis, linear algebra, probability theory, calculus, and
  mathematical modelling. 
  </li>
+
+
+ # Connect with Me 🤝
+ <li>
+   Email :rishavm003@gmail.com 
+  <li>
+   Address: Lucknow, 
+    <li>
+Github:github.com.rishavm003
+ </li>
+
+
+ # Let's collaborate and build amazing things together! 😊
