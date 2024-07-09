@@ -49,11 +49,11 @@ Adept at driving data-driven decision-making
 
  # Connect with Me 🤝
  <li>
-   Email :rishavm003@gmail.com 
+   Email: rishavm003@gmail.com 
   <li>
-   Address: Lucknow, 
+   Address: Lucknow, Uttar-Pradesh
     <li>
-Github:github.com.rishavm003
+Github: github.com.rishavm003
  </li>
 
 
