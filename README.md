@@ -2,7 +2,7 @@
 
 # About Me 
 <li> 
-🔭 I’m currently pursuing B Tech in CSE(AI)
+I’m currently pursuing B Tech in CSE(AI)
 <li>Highly motivated data analyst
   <li>
 Strong problem-solving skills
