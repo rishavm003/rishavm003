@@ -46,6 +46,23 @@ Adept at driving data-driven decision-making
  mathematical modelling. 
  </li>
 
+ # Achievement
+ <li>
+ I recently completed a Kaggle competition "Titanic: Machine Learning from Disaster.
+   <li>
+ achieving a score of 0.76794, and have uploaded my work to my GitHub profile.
+     <li>
+ I've achieved a score of 2700/3000 points in my recent Python skill test in Code Chef
+       <li>
+ I am actively involved in volunteering activities with the National Service Scheme (NSS) at
+ my college campus, where I serve as the Technical Head.
+         <li>
+ I have completed Accenture North America's Data Analytics and Visualization simulation
+ on Forage
+           <li>
+ I have completed J.P. Morgan's Software Engineering simulation on Forage
+ 
+</li>
 
  # Connect with Me 🤝
  <li>
