@@ -17,6 +17,9 @@ Adept at driving data-driven decision-making
 </li>
 
 # Projects 🚀
+<li>
+  Credit Card Transaction and Customer Dashboard using Power BI
+</li>
 
 
 
