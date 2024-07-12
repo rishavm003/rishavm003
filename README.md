@@ -20,7 +20,7 @@ Adept at driving data-driven decision-making
 <li>
   Project: Credit Card Customer and Transaction Dashboards
 
-Description: Developed comprehensive Power BI dashboards to visualize and analyze credit card customer data and transaction details.
+Description: Developed comprehensive Power BI dashboards to visualize and analyze credit card customer data and transaction details.<br>
 Key Features:
 Credit Card Customer Report: Highlights revenue metrics, demographic breakdowns, and usage patterns segmented by age, gender, income, marital status, and education.<br>
 Credit Card Transaction Report: Provides insights into transaction counts, quarterly revenue, customer segmentation, and card usage methods.<br>
