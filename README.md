@@ -18,7 +18,14 @@ Adept at driving data-driven decision-making
 
 # Projects 🚀
 <li>
-  Credit Card Transaction and Customer Dashboard using Power BI
+  Project: Credit Card Customer and Transaction Dashboards
+
+Description: Developed comprehensive Power BI dashboards to visualize and analyze credit card customer data and transaction details.
+Key Features:
+Credit Card Customer Report: Highlights revenue metrics, demographic breakdowns, and usage patterns segmented by age, gender, income, marital status, and education.<br>
+Credit Card Transaction Report: Provides insights into transaction counts, quarterly revenue, customer segmentation, and card usage methods.<br>
+Skills Utilized: Data visualization, Power BI, data analysis, SQL, DAX.
+
 </li>
 
 
@@ -27,25 +34,23 @@ Adept at driving data-driven decision-making
 
 # Skills & Technologies 🛠️
 <li>
- Programming Languages: C, Python(Libraries and Frameworks), HTML & CSS, JavaScript
+ <b>Programming Languages:</b> C, Python(Libraries and Frameworks), HTML & CSS, JavaScript
   <li>
- Data Analysis & Visualization: Power BI, Excel, Data Visualization, Data Analysis.
+<b> Data Analysis & Visualization:</b> Power BI, Excel, Data Visualization, Data Analysis.
     <li>
- Artificial Intelligence: Beginner in AI & Computer Vision
+ <b>Artificial Intelligence:</b> Beginner in AI & Computer Vision
       <li>
- Machine Learning:  Statistical Analysis, Understanding of algorithms such as linear regression,
-        <li>
- logistic regression, decision trees, random forests, Model Evaluation.
+<b> Machine Learning:</b>  Statistical Analysis, Understanding of algorithms such as linear regression,logistic regression, decision trees, random forests, Model Evaluation.
           <li>
- Version Control: Git & GitHub
+ <b>Version Control:</b> Git & GitHub
             <li>
- Database Management: SQL ||Visual Design: Adobe Photoshop
+ <b>Database Management:</b> SQL ||Visual Design: Adobe Photoshop
               <li>
- Microsoft Office: Proficient in Microsoft Office Suite
+<b> Microsoft Office:</b> Proficient in Microsoft Office Suite
                 <li>
- Cloud Services: Amazon Web Services
+ <b>Cloud Services:</b> Amazon Web Services
                   <li>
- Mathematics: Proficient in statistical analysis, linear algebra, probability theory, calculus, and
+<b> Mathematics:</b> Proficient in statistical analysis, linear algebra, probability theory, calculus, and
  mathematical modelling. 
  </li>
 
