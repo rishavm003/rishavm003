@@ -24,7 +24,9 @@ Description: Developed comprehensive Power BI dashboards to visualize and analyz
 Key Features:
 Credit Card Customer Report: Highlights revenue metrics, demographic breakdowns, and usage patterns segmented by age, gender, income, marital status, and education.<br>
 Credit Card Transaction Report: Provides insights into transaction counts, quarterly revenue, customer segmentation, and card usage methods.<br>
-Skills Utilized: Data visualization, Power BI, data analysis, SQL, DAX.
+Skills Utilized: Data visualization, Power BI, data analysis, SQL, DAX.<br>
+<img src="https://github.com/user-attachments/assets/311f034e-3e2d-4da4-ad1a-95506077ad37" alt="Credit Card Customer details" width="500" height="300">
+<img src="https://github.com/user-attachments/assets/b878c9b7-de62-4a34-8950-83b5af81cca2" alt="Credit Crad Transaction Report" width="500" height="300">
 
 </li>
 
