@@ -42,7 +42,7 @@ Skills Utilized: Data visualization, Power BI, data analysis, SQL, DAX.
 <li>
 <b> Machine Learning:</b>Statistical Analysis, Understanding of algorithms such as linear regression,logistic regression, decision trees, random forests, Model Evaluation.
 <li>
-b>Version Control:</b> Git & GitHub
+<b>Version Control:</b> Git & GitHub
 <li>
 <b>Database Management:</b> SQL, Postgre SQL
 <li>
