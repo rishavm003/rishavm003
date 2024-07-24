@@ -32,7 +32,7 @@ Skills Utilized: Data visualization, Power BI, data analysis, SQL, DAX.
 
 # Skills & Technologies 🛠️
 <li>
-<b>Programming Languages:</b> C,C++,Python, HTML & CSS, JavaScript
+<b>Programming Languages:</b> C,C++,Python
 <li>
 <b>Web Development:</b>Html, CSS, Javascript,    
 <li>
