@@ -30,55 +30,60 @@ Skills Utilized: Data visualization, Power BI, data analysis, SQL, DAX.
 
 
 
-
-
 # Skills & Technologies 🛠️
 <li>
- <b>Programming Languages:</b> C, Python(Libraries and Frameworks), HTML & CSS, JavaScript
-  <li>
-<b> Data Analysis & Visualization:</b> Power BI, Excel, Data Visualization, Data Analysis.
-    <li>
- <b>Artificial Intelligence:</b> Beginner in AI & Computer Vision
-      <li>
-<b> Machine Learning:</b>  Statistical Analysis, Understanding of algorithms such as linear regression,logistic regression, decision trees, random forests, Model Evaluation.
-          <li>
- <b>Version Control:</b> Git & GitHub
-            <li>
- <b>Database Management:</b> SQL ||Visual Design: Adobe Photoshop
-              <li>
+<b>Programming Languages:</b> C,C++,Python, HTML & CSS, JavaScript
+<li>
+<b>Web Development:</b>Html, CSS, Javascript,    
+<li>
+<b> Data Analysis & Visualization:</b> Power BI, Excel, Data Visualization, Data Analysis, Data Modeling
+<li>
+<b>Artificial Intelligence:</b> Beginner in AI
+<li>
+<b> Machine Learning:</b>Statistical Analysis, Understanding of algorithms such as linear regression,logistic regression, decision trees, random forests, Model Evaluation.
+<li>
+b>Version Control:</b> Git & GitHub
+<li>
+<b>Database Management:</b> SQL, Postgre SQL
+<li>
+<b>Visual Design:</b>Adobe Photoshop, Canva
+<li>
 <b> Microsoft Office:</b> Proficient in Microsoft Office Suite
-                <li>
- <b>Cloud Services:</b> Amazon Web Services
-                  <li>
+<li>
+<b>Cloud Services:</b> Amazon Web Services
+<li>
 <b> Mathematics:</b> Proficient in statistical analysis, linear algebra, probability theory, calculus, and
  mathematical modelling. 
- </li>
+</li>
 
  # Achievement
- <li>
+<li>
  I recently completed a Kaggle competition "Titanic: Machine Learning from Disaster.
-   <li>
+<li>
  achieving a score of 0.76794, and have uploaded my work to my GitHub profile.
-     <li>
+<li>
  I've achieved a score of 2700/3000 points in my recent Python skill test in Code Chef
-       <li>
+<li>
  I am actively involved in volunteering activities with the National Service Scheme (NSS) at
  my college campus, where I serve as the Technical Head.
-         <li>
+<li>
  I have completed Accenture North America's Data Analytics and Visualization simulation
  on Forage
-           <li>
+<li>
  I have completed J.P. Morgan's Software Engineering simulation on Forage
- 
+<li>
+ Awarded a Certificate of Appreciation for significant contributions in developing a brain tumor detection model during the AI/ML Hackathon 1.0 at Parul University.
 </li>
 
  # Connect with Me 🤝
- <li>
-   Email: rishavm003@gmail.com 
-  <li>
-   Address: Lucknow, Uttar-Pradesh
-    <li>
-Github: github.com.rishavm003
+<li>
+<b>Email:</b><a href="rishavm003@gmail.com">rishavm003@gmail.com</a>
+<li>
+<b>Address:</b> Lucknow, Uttar-Pradesh
+<li>
+<b>Github:</b><a href="https://github.com/rishavm003">Github ID</a>
+<li>
+<b>Linkedin:</b><a href="https://www.linkedin.com/in/rishav-mishra-a95a85224?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAOmZA9DNTj65hTvsJJqMjg%3D%3D">Linkdein ID</a>
  </li>
 
 
