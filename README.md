@@ -60,9 +60,9 @@ Skills Utilized: Data visualization, Power BI, data analysis, SQL, DAX.<br>
 
  # Achievement
 <li>
- I recently completed a Kaggle competition "Titanic: Machine Learning from Disaster.
+ I recently completed a Kaggle competition "Titanic: Machine Learning from Disaster,achieving a score of 0.76794, and have uploaded my work to my GitHub profile.
 <li>
- achieving a score of 0.76794, and have uploaded my work to my GitHub profile.
+Awarded a Certificate of Appreciation for significant contributions in developing a brain tumor detection model using YOLO and CNN during the AI/ML Hackathon 1.0 at Parul University.
 <li>
  I've achieved a score of 2700/3000 points in my recent Python skill test in Code Chef
 <li>
@@ -73,8 +73,7 @@ Skills Utilized: Data visualization, Power BI, data analysis, SQL, DAX.<br>
  on Forage
 <li>
  I have completed J.P. Morgan's Software Engineering simulation on Forage
-<li>
- Awarded a Certificate of Appreciation for significant contributions in developing a brain tumor detection model during the AI/ML Hackathon 1.0 at Parul University.
+
 </li>
 
  # Connect with Me 🤝
