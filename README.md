@@ -77,13 +77,13 @@ b>Version Control:</b> Git & GitHub
 
  # Connect with Me 🤝
 <li>
-<b>Email:</b><a href="rishavm003@gmail.com">rishavm003@gmail.com</a>
+<b>Email:</b><a href="rishavm003@gmail.com"> rishavm003@gmail.com</a>
 <li>
 <b>Address:</b> Lucknow, Uttar-Pradesh
 <li>
-<b>Github:</b><a href="https://github.com/rishavm003">Github ID</a>
+<b>Github:</b><a href="https://github.com/rishavm003"> Github ID</a>
 <li>
-<b>Linkedin:</b><a href="https://www.linkedin.com/in/rishav-mishra-a95a85224?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAOmZA9DNTj65hTvsJJqMjg%3D%3D">Linkdein ID</a>
+<b>Linkedin:</b><a href="https://www.linkedin.com/in/rishav-mishra-a95a85224?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAOmZA9DNTj65hTvsJJqMjg%3D%3D"> Linkdein ID</a>
  </li>
 
 
