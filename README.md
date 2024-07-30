@@ -60,7 +60,7 @@ Adept at driving data-driven decision-making
 <li>
 <b>Artificial Intelligence:</b> Beginner in AI
 <li>
-<b> Machine Learning:</b>Statistical Analysis, Understanding of algorithms such as linear regression,logistic regression, decision trees, random forests, Model Evaluation.
+<b> Machine Learning:</b>Statistical Analysis, Understanding of algorithms such as linear regression,logistic regression, decision trees, random forests, Model Evaluation.<br>
 <li>
 <b>Version Control:</b> Git & GitHub
 <li>
@@ -72,25 +72,23 @@ Adept at driving data-driven decision-making
 <li>
 <b>Cloud Services:</b> Amazon Web Services
 <li>
-<b> Mathematics:</b> Proficient in statistical analysis, linear algebra, probability theory, calculus, and
- mathematical modelling. 
+<b> Mathematics:</b> Proficient in statistical analysis, linear algebra, probability theory, calculus, and mathematical modelling. <br>
 </li>
 
  # Achievement
 <li>
- I recently completed a Kaggle competition "Titanic: Machine Learning from Disaster,achieving a score of 0.76794, and have uploaded my work to my GitHub profile.
+ I recently completed a Kaggle competition "Titanic: Machine Learning from Disaster,achieving a score of 0.76794, and have uploaded my work to my GitHub profile.<br>
 <li>
-Awarded a Certificate of Appreciation for significant contributions in developing a brain tumor detection model using YOLO and CNN during the AI/ML Hackathon 1.0 at Parul University.
+Awarded a Certificate of Appreciation for significant contributions in developing a brain tumor detection model using YOLO and CNN during the AI/ML Hackathon 1.0 at Parul University.<br>
 <li>
  I've achieved a score of 2700/3000 points in my recent Python skill test in Code Chef
 <li>
- I am actively involved in volunteering activities with the National Service Scheme (NSS) at
- my college campus, where I serve as the Technical Head.
+ I am actively involved in volunteering activities with the National Service Scheme (NSS) at my college campus, where I serve as the Technical Head.<br>
 <li>
- I have completed Accenture North America's Data Analytics and Visualization simulation
- on Forage
+ I have completed Accenture North America's Data Analytics and Visualization simulation on Forage<br>
 <li>
- I have completed J.P. Morgan's Software Engineering simulation on Forage
+ I have completed J.P. Morgan's Software Engineering simulation on Forage<br>
+ <li>I have completed Goldman Sachs's Excel Skills for Business on Forage. <br>
 
 </li>
 
