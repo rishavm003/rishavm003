@@ -36,6 +36,46 @@ Adept at driving data-driven decision-making
     </ul>
 </ul>
 </li>
+<h2>Project: Marketing Campaign Performance Analysis</h2>
+<ul>
+<li>Description:Analyzed the effectiveness of various marketing campaigns by tracking key performance indicators (KPIs) and providing actionable insights to optimize future strategies. The project involved comprehensive data cleaning, exploratory data analysis, and visualization to uncover insights into campaign performance, audience engagement, and return on investment (ROI).</li>
+<li>Objective:To evaluate and optimize the performance of marketing campaigns by analyzing key metrics, understanding audience behavior, and identifying effective strategies for different customer segments.</li>
+<li>Technologies Used:</li>
+<ul>
+<li>Python
+<li>Pandas
+<li>NumPy
+<li>Matplotlib
+<li>Seaborn
+<li>Scikit-learn
+<li>Jupyter Notebook
+</li>
+</ul>
+<li>Responsibility:
+<ul>
+<li>
+Imported and extracted datasets from zip files and performed initial data analysis to confirm the absence of missing values and identify categorical features.
+<li>
+Cleaned and preprocessed data by analyzing individual columns and fixing data types, optimizing memory usage and efficiency.
+<li>
+Conducted exploratory data analysis (EDA) to create visualizations and gain insights into campaign types, target audiences, channels used, and customer segments.
+<li>
+Analyzed key metrics such as ROI and acquisition cost to evaluate the profitability and cost-efficiency of campaigns.
+<li>
+Generated actionable insights to refine marketing strategies and optimize campaign performance based on data-driven findings.
+</li>
+</ul>
+<li>Achievements:
+<ul>
+<li>
+Successfully identified the most effective campaign types and channels, leading to more targeted and efficient marketing strategies.
+<li>
+Provided detailed analysis of customer segments, allowing for personalized marketing campaigns that improved engagement and conversion rates.
+<li>
+Enabled data-driven decision-making by providing clear and actionable insights into campaign performance and audience behavior.
+</li>
+</ul>
+    
 <h2>Project: Credit Card Customer and Transaction Dashboards</h2>
 <ul>
 <li>Description: Developed comprehensive Power BI dashboards to visualize and analyze credit card customer data and transaction details.<br></li>
