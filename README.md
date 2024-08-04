@@ -42,14 +42,8 @@ Adept at driving data-driven decision-making
 <li>Objective:To evaluate and optimize the performance of marketing campaigns by analyzing key metrics, understanding audience behavior, and identifying effective strategies for different customer segments.</li>
 <li>Technologies Used:</li>
 <ul>
-<li>Python
-<li>Pandas
-<li>NumPy
-<li>Matplotlib
-<li>Seaborn
-<li>Scikit-learn
-<li>Jupyter Notebook
-</li>
+<li>Python,&nbsp;&nbsp;&nbsp;&nbsp; Pandas,&nbsp;&nbsp;&nbsp;&nbsp; Numpy,&nbsp;&nbsp;&nbsp;&nbsp; Matplolib,&nbsp;&nbsp;&nbsp;&nbsp;  </li> 
+<li>Seaborn,&nbsp;&nbsp;&nbsp;&nbsp;Scikit-learn,&nbsp;&nbsp;&nbsp;&nbsp;Jupyter Notebook</li>
 </ul>
 <li>Responsibility:
 <ul>
