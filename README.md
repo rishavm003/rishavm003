@@ -75,7 +75,8 @@ Provided detailed analysis of customer segments, allowing for personalized marke
 Enabled data-driven decision-making by providing clear and actionable insights into campaign performance and audience behavior.
 </li>
 </ul>
-    
+</li>
+</ul>
 <h2>Project: Credit Card Customer and Transaction Dashboards</h2>
 <ul>
 <li>Description: Developed comprehensive Power BI dashboards to visualize and analyze credit card customer data and transaction details.<br></li>
