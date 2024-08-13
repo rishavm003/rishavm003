@@ -1,7 +1,7 @@
 # Welcome to Rishav's GitHub Profile 👋
 
 # About Me 
-<li> 
+<li>
 I’m currently pursuing B Tech in CSE(AI)
 <li>Highly motivated data analyst
 <li>
