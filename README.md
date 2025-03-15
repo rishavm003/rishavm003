@@ -34,6 +34,7 @@ Adept at driving data-driven decision-making
         <li>Successfully identified and diagnosed medical conditions with high accuracy.</li>
         <li>Provided a valuable tool for healthcare professionals to aid in early diagnosis and treatment planning.</li>
     </ul>
+https://github.com/rishavm003/Medical-Image-Analysis
 </ul>
 </li>
 <h2>Project: Marketing Campaign Performance Analysis</h2>
@@ -69,6 +70,7 @@ Provided detailed analysis of customer segments, allowing for personalized marke
 Enabled data-driven decision-making by providing clear and actionable insights into campaign performance and audience behavior.
 </li>
 </ul>
+    https://github.com/rishavm003/Marketing_Campaign_Performance_Analysis
 </li>
 </ul>
 <h2>Project: Credit Card Customer and Transaction Dashboards</h2>
@@ -80,6 +82,7 @@ Enabled data-driven decision-making by providing clear and actionable insights i
     <li>Credit Card Transaction Report: Provides insights into transaction counts, quarterly revenue, customer segmentation, and card usage methods.<br></li>
     <li>Skills Utilized: Data visualization, Power BI, data analysis, SQL, DAX.<br></li>
     </ul>
+https://github.com/rishavm003/Credit_Card_Financial-Dashboard.
 </ul>
 
 
