@@ -86,6 +86,37 @@ https://github.com/rishavm003/Credit_Card_Financial-Dashboard.
 </ul>
 
 
+<h2>📊 Blinkit Sales Analysis</h2>
+    <p>
+        This project focuses on analyzing Blinkit's sales data using <strong>Power BI</strong> to extract 
+        valuable business insights. The analysis covers key aspects such as sales trends, 
+        customer preferences, outlet performance, and product category distributions. 
+        By leveraging data visualization, this project helps in optimizing 
+        <strong>inventory management</strong>, improving <strong>marketing strategies</strong>, and understanding 
+        <strong>customer buying behavior</strong>.
+    </p>
+
+<h3>🔍 Key Highlights:</h3>
+<ul>
+        <li>Sales trend analysis over multiple years (2010-2020)</li>
+        <li>Comparison of product performance across different categories</li>
+        <li>Customer preference analysis based on ratings and sales</li>
+        <li>Outlet performance evaluation by size, location, and type</li>
+        <li>Power BI dashboard for interactive data visualization</li>
+    </ul>
+
+<h3>🛠 Technologies Used:</h3>
+<ul>
+        <li><strong>Power BI:</strong> Data visualization and dashboard creation</li>
+        <li><strong>SQL & Excel:</strong> Data cleaning and preprocessing</li>
+        <li><strong>Business Intelligence:</strong> Deriving insights for decision-making</li>
+
+https://github.com/rishavm003/Blinkit-Sales-Analysis
+</ul>
+
+
+
+
 # Skills & Technologies 🛠️
 <li>
 <b>Programming Languages:</b> C,C++,Python
