@@ -7,7 +7,7 @@ I am a Computer Science graduate specializing in Artificial Intelligence from Ba
 
 
 
-- 🌱 I’m currently learning **Frameworks of Deeplearning**
+- 🌱 I’m currently focusing on building projects on the skills acquired.
 
 - 👨‍💻 All of my projects are available at [https://rishav-mishra-portfolio.vercel.app/](https://rishav-mishra-portfolio.vercel.app/)
 
