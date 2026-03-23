@@ -32,7 +32,7 @@ I am a Computer Science graduate specializing in Artificial Intelligence from Ba
 <li>
 <b> Data Analysis & Visualization:</b> Power BI, Excel, Data Visualization, Data Analysis, Data Modeling
 <li>
-<b>Artificial Intelligence:</b> Beginner in AI
+<b>Artificial Intelligence:</b> Artificial Intelligence and its frameworks and libraries
 <li>
 <b> Machine Learning:</b>Statistical Analysis, Understanding of algorithms such as linear regression,logistic regression, decision trees, random forests, Model Evaluation.<br>
 <li>
