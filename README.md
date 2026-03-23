@@ -9,7 +9,7 @@ I am a Computer Science graduate specializing in Artificial Intelligence from Ba
 
 - 🌱 I’m currently focusing on building projects on the skills acquired.
 
-- 👨‍💻 All of my projects are available at [https://rishav-mishra-portfolio.vercel.app/](https://rishav-mishra-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://rishav-mishra-portfolio.vercel.app/](https://rishav-mishra-portfolio.vercel.app/) Which is my portfolio Website
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
