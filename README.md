@@ -17,7 +17,7 @@ I am a Computer Science graduate specializing in Artificial Intelligence from Ba
 </p>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rishavm003&theme=default)
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rishavm003&theme=github-light)
 
 
 # 💻 Tech Stack:
