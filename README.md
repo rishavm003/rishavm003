@@ -13,11 +13,25 @@ I am a Computer Science graduate specializing in Artificial Intelligence from Ba
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/rishav-mishra-rm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rishav-mishra-rm" height="30" width="40" /></a>
+
+<p align="left">
+  <a href="https://github.com/rishavm003" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-rishavm003-181717?style=for-the-badge&logo=github" />
+  </a>
+
+  <a href="mailto:rishavm003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rishavm003@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="[https://www.linkedin.com/](https://linkedin.com/in/www.linkedin.com/in/rishav-mishra-rm)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
+## ⚡ Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=rishavm003&theme=default)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rishavm003&theme=github-light)
+
 
 
 # 💻 Tech Stack:
