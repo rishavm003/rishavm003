@@ -16,8 +16,7 @@ I am a Computer Science graduate specializing in Artificial Intelligence from Ba
 <a href="https://linkedin.com/in/www.linkedin.com/in/rishav-mishra-rm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rishav-mishra-rm" height="30" width="40" /></a>
 </p>
 
-[![](https://nirzak-streak-stats.vercel.app/?user=rishavm003&theme=light&hide_border=false)<br/>](https://streak-stats.demolab.com?user=rishavm003&theme=default&hide_border=false)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavm003&show_icons=true&locale=en" alt="rishavm003" /></p>
+![GitHub Streak](https://streak-stats.demolab.com?user=rishavm003&theme=default)
 
 
 
