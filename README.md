@@ -38,6 +38,71 @@ I am a Computer Science graduate specializing in Artificial Intelligence from Ba
 # 💻 Tech Stack:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
+## 🛠️ Skills & Technologies
+
+### 👨‍💻 Programming Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+### 📊 Data Analysis & Visualization
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-4CAF50?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF6F00?style=for-the-badge)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-673AB7?style=for-the-badge)
+
+---
+
+### 🤖 Artificial Intelligence & Machine Learning
+![Artificial Intelligence](https://img.shields.io/badge/AI-FF4088?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-00ACC1?style=for-the-badge)
+![Linear Regression](https://img.shields.io/badge/Linear_Regression-795548?style=for-the-badge)
+![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-009688?style=for-the-badge)
+![Decision Trees](https://img.shields.io/badge/Decision_Trees-8BC34A?style=for-the-badge)
+![Random Forest](https://img.shields.io/badge/Random_Forest-3F51B5?style=for-the-badge)
+![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-607D8B?style=for-the-badge)
+
+---
+
+### 🔧 Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 🗄️ Database Management
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### 🎨 Design Tools
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+---
+
+### ☁️ Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+### 📐 Mathematics
+![Linear Algebra](https://img.shields.io/badge/Linear_Algebra-9C27B0?style=for-the-badge)
+![Probability](https://img.shields.io/badge/Probability-FF5722?style=for-the-badge)
+![Calculus](https://img.shields.io/badge/Calculus-3F51B5?style=for-the-badge)
+![Statistical Analysis](https://img.shields.io/badge/Statistics-009688?style=for-the-badge)
+![Mathematical Modeling](https://img.shields.io/badge/Mathematical_Modeling-795548?style=for-the-badge)
+
 # Skills & Technologies 🛠️
 <li>
 <b>Programming Languages:</b> C,C++,Python
