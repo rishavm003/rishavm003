@@ -74,7 +74,7 @@ I am a Computer Science graduate specializing in Artificial Intelligence from Ba
 
 ---
 
-📊 Data Science Libraries
+### 📊 Data Science Libraries
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=black)
