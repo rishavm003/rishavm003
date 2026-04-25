@@ -1,155 +1,162 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavm003&label=Profile%20views&color=0e75b6&style=flat" alt="rishavm003" /> </p>
-<h1 align="center">Hi 👋, I'm Rishav Kumar Mishra</h1>
-<h3 align="center">AI Engineer | Data Analyst | Machine Learning Enthusiast</h3>
+<div align="center">
 
-# 💫 About Me:
-I am a Computer Science graduate specializing in Artificial Intelligence from Babu Banarasi Das University, Lucknow. My work focuses on building practical AI systems that solve real-world problems using Machine Learning, Deep Learning, and Data Analytics.<br><br>I have experience working with Python, SQL, Power BI, and modern AI frameworks to design intelligent systems, automate data-driven decisions, and build end-to-end analytical pipelines. My projects span areas such as medical AI, computer vision, NLP systems, and AI-powered automation tools.<br>
+<!-- Dynamic header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7b2fff&height=200&section=header&text=Rishav%20Kumar%20Mishra&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Analyst%20%7C%20ML%20Enthusiast&descAlignY=58&descColor=a0aec0&animation=fadeIn" width="100%"/>
 
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;AI+%7C+ML+%7C+Deep+Learning+%7C+Data+Analytics;Turning+Data+into+Decisions+%F0%9F%93%8A;CS+Graduate+%E2%80%94+BBDU+Lucknow+%F0%9F%8E%93" alt="Typing SVG"/>
+</a>
 
-- 🌱 I’m currently focusing on building projects on the skills acquired.
+<br/>
 
-- 👨‍💻 All of my projects are available at [https://rishav-mishra-portfolio.vercel.app/](https://rishav-mishra-ptfo.vercel.app/) Which is my portfolio Website
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<p align="left">
-  <a href="https://github.com/rishavm003" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-rishavm003-181717?style=for-the-badge&logo=github" />
-  </a>
-
-  <a href="mailto:rishavm003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rishavm003@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="[https://www.linkedin.com/](https://linkedin.com/in/www.linkedin.com/in/rishav-mishra-rm)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<!-- Profile views + social badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=rishavm003&label=Profile+Views&color=00d4ff&style=flat-square" alt="Profile Views"/>
+  &nbsp;
+  <a href="https://github.com/rishavm003?tab=followers">
+    <img src="https://img.shields.io/github/followers/rishavm003?label=Followers&style=flat-square&color=7b2fff&labelColor=0d1117" alt="GitHub Followers"/>
   </a>
 </p>
 
-## ⚡Github Stats
-<p align="left">
-
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=rishavm003&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavm003&layout=compact&theme=tokyonight" height="180"/>
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishavm003&cache_seconds=0)
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rishavm003&theme=tokyo-night&cache_seconds=0)
-</p>
-
-
-
-# 💻 Tech Stack:
-
-### 👨‍💻 Programming Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+</div>
 
 ---
 
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## `> who am i`
+
+```python
+class RishavKumarMishra:
+    def __init__(self):
+        self.name        = "Rishav Kumar Mishra"
+        self.title       = "AI Engineer | Data Analyst | ML Enthusiast"
+        self.education   = "B.Tech CS (AI), Babu Banarasi Das University, Lucknow"
+        self.location    = "Lucknow, Uttar Pradesh, India 🇮🇳"
+        self.focus       = [
+            "End-to-end ML pipelines",
+            "Computer Vision & NLP systems",
+            "Data-driven automation",
+            "Medical AI applications",
+        ]
+        self.currently   = "Building projects that bridge AI research → real-world impact"
+        self.contact     = "rishavm003@gmail.com"
+
+    def __repr__(self):
+        return f"AI Engineer passionate about intelligent systems that matter."
+```
 
 ---
 
-### 📊 Data Analysis & Visualization
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-4CAF50?style=for-the-badge)
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF6F00?style=for-the-badge)
-![Data Modeling](https://img.shields.io/badge/Data_Modeling-673AB7?style=for-the-badge)
+## `> connect --channels`
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-rishav--mishra--ptfo.vercel.app-00d4ff?style=for-the-badge&labelColor=0d1117)](https://rishav-mishra-ptfo.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-rishavm003-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/rishavm003)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rishav--mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/rishav-mishra-a95a85224)
+[![Email](https://img.shields.io/badge/Email-rishavm003@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:rishavm003@gmail.com)
+
+</div>
 
 ---
 
-### 🤖 Artificial Intelligence & Machine Learning
-![Artificial Intelligence](https://img.shields.io/badge/AI-FF4088?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-00ACC1?style=for-the-badge)
-![Linear Regression](https://img.shields.io/badge/Linear_Regression-795548?style=for-the-badge)
-![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-009688?style=for-the-badge)
-![Decision Trees](https://img.shields.io/badge/Decision_Trees-8BC34A?style=for-the-badge)
-![Random Forest](https://img.shields.io/badge/Random_Forest-3F51B5?style=for-the-badge)
-![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-607D8B?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
+## `> tech-stack --list`
+
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### 🤖 AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&labelColor=111111)
+
+### 📊 Data & Analytics
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
+### 🗄️ Databases & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+### 🔧 DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 
 ---
 
-### 📊 Data Science Libraries
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+## `> stats --overview`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rishavm003&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2fff&text_color=c9d1d9&ring_color=00d4ff" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavm003&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" height="170"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishavm003&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=7b2fff&currStreakLabel=00d4ff" width="55%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishavm003&theme=github-compact&bg_color=0d1117&color=00d4ff&line=7b2fff&point=ffffff&hide_border=true" width="100%"/>
+
+</div>
 
 ---
 
-### 🔧 Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+## `> achievements --highlight`
+
+| 🏆 Achievement | Details |
+|---|---|
+| 🥇 **Kaggle — Titanic ML from Disaster** | Score: **0.76794** · Full solution on GitHub |
+| 🏅 **Certificate of Appreciation** | Brain Tumor Detection using YOLO + CNN · AI/ML Hackathon 1.0, Parul University |
+| 💻 **CodeChef Python Skill Test** | Score: **2700 / 3000** |
+| 📊 **Accenture NA — Data Analytics & Visualization** | Virtual Simulation · Forage |
+| 💼 **J.P. Morgan — Software Engineering** | Virtual Simulation · Forage |
+| 📈 **Goldman Sachs — Excel Skills for Business** | Virtual Simulation · Forage |
+| 🤝 **NSS Technical Head** | National Service Scheme · BBDU Campus |
 
 ---
 
-### 🗄️ Database Management
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+## `> projects --featured`
+
+> 📌 All projects live at → **[rishav-mishra-ptfo.vercel.app](https://rishav-mishra-ptfo.vercel.app/)**
+
+| Project | Domain | Stack Highlights |
+|---|---|---|
+| 🧠 **Brain Tumor Detection** | Medical AI · Computer Vision | YOLO, CNN, Python |
+| 🏥 **Hospital Patient Record Management System** | Full-Stack + Healthcare | React 18, Node.js, MongoDB, Express, JWT |
+| 📰 **Local AI Ad Generation System** | Generative AI · Video Automation | Stable Diffusion XL, Ollama, MoviePy, FFmpeg |
+| 📈 **AI Trading Bot** | FinTech · NLP | Sentiment Analysis, TA-lib, Backtrader, PostgreSQL |
+| 🤖 **AI Meeting Analyser** | NLP · Productivity | Python, NLP pipelines |
 
 ---
 
-### 🎨 Design Tools
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+<div align="center">
 
----
+<!-- Footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2fff,50:00d4ff,100:0d1117&height=120&section=footer" width="100%"/>
 
-### ☁️ Cloud & Platforms
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+*"The best way to predict the future is to build it."*
 
----
+**— Let's collaborate and build intelligent systems together 🤝**
 
-### 📐 Mathematics
-![Linear Algebra](https://img.shields.io/badge/Linear_Algebra-9C27B0?style=for-the-badge)
-![Probability](https://img.shields.io/badge/Probability-FF5722?style=for-the-badge)
-![Calculus](https://img.shields.io/badge/Calculus-3F51B5?style=for-the-badge)
-![Statistical Analysis](https://img.shields.io/badge/Statistics-009688?style=for-the-badge)
-![Mathematical Modeling](https://img.shields.io/badge/Mathematical_Modeling-795548?style=for-the-badge)
-
-
- # Achievement
-<li>
- I recently completed a Kaggle competition "Titanic: Machine Learning from Disaster,achieving a score of 0.76794, and have uploaded my work to my GitHub profile.<br>
-<li>
-Awarded a Certificate of Appreciation for significant contributions in developing a brain tumor detection model using YOLO and CNN during the AI/ML Hackathon 1.0 at Parul University.<br>
-<li>
- I've achieved a score of 2700/3000 points in my recent Python skill test in Code Chef
-<li>
- I am actively involved in volunteering activities with the National Service Scheme (NSS) at my college campus, where I serve as the Technical Head.<br>
-<li>
- I have completed Accenture North America's Data Analytics and Visualization simulation on Forage<br>
-<li>
- I have completed J.P. Morgan's Software Engineering simulation on Forage<br>
- <li>I have completed Goldman Sachs's Excel Skills for Business on Forage. <br>
-
-</li>
-
- # Connect with Me 🤝
-<li>
-<b>Email:</b><a href="rishavm003@gmail.com"> rishavm003@gmail.com</a>
-<li>
-<b>Address:</b> Lucknow, Uttar-Pradesh
-<li>
-<b>Github:</b><a href="https://github.com/rishavm003"> Github ID</a>
-<li>
-<b>Linkedin:</b><a href="https://www.linkedin.com/in/rishav-mishra-a95a85224?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAOmZA9DNTj65hTvsJJqMjg%3D%3D"> Linkdein ID</a>
- </li>
-
-
- # Let's collaborate and build amazing things together! 😊
+</div>
