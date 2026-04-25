@@ -6,7 +6,6 @@
 I am a Computer Science graduate specializing in Artificial Intelligence from Babu Banarasi Das University, Lucknow. My work focuses on building practical AI systems that solve real-world problems using Machine Learning, Deep Learning, and Data Analytics.<br><br>I have experience working with Python, SQL, Power BI, and modern AI frameworks to design intelligent systems, automate data-driven decisions, and build end-to-end analytical pipelines. My projects span areas such as medical AI, computer vision, NLP systems, and AI-powered automation tools.<br>
 
 
-
 - 🌱 I’m currently focusing on building projects on the skills acquired.
 
 - 👨‍💻 All of my projects are available at [https://rishav-mishra-portfolio.vercel.app/](https://rishav-mishra-portfolio.vercel.app/) Which is my portfolio Website
@@ -36,7 +35,7 @@ I am a Computer Science graduate specializing in Artificial Intelligence from Ba
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavm003&layout=compact&theme=tokyonight" height="180"/>
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishavm003&cache_seconds=0)
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rishavm003&theme=github-light&cache_seconds=0)
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rishavm003&theme=tokyo-night&cache_seconds=0)
 </p>
 
 
