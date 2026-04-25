@@ -28,10 +28,16 @@ I am a Computer Science graduate specializing in Artificial Intelligence from Ba
   </a>
 </p>
 
-## ⚡ Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishavm003&cache_seconds=0)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rishavm003&theme=github-light&cache_seconds=0)
+## ⚡Github Stats
+<p align="left">
 
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=rishavm003&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavm003&layout=compact&theme=tokyonight" height="180"/>
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishavm003&cache_seconds=0)
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rishavm003&theme=github-light&cache_seconds=0)
+</p>
 
 
 
