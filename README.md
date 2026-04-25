@@ -123,30 +123,6 @@ I am a Computer Science graduate specializing in Artificial Intelligence from Ba
 ![Statistical Analysis](https://img.shields.io/badge/Statistics-009688?style=for-the-badge)
 ![Mathematical Modeling](https://img.shields.io/badge/Mathematical_Modeling-795548?style=for-the-badge)
 
-# Skills & Technologies 🛠️
-<li>
-<b>Programming Languages:</b> C,C++,Python
-<li>
-<b>Web Development:</b>Html, CSS, Javascript,    
-<li>
-<b> Data Analysis & Visualization:</b> Power BI, Excel, Data Visualization, Data Analysis, Data Modeling
-<li>
-<b>Artificial Intelligence:</b> Artificial Intelligence and its frameworks and libraries
-<li>
-<b> Machine Learning:</b>Statistical Analysis, Understanding of algorithms such as linear regression, logistic regression, decision trees, random forests, Model Evaluation.<br>
-<li>
-<b>Version Control:</b> Git & GitHub
-<li>
-<b>Database Management:</b> SQL, Postgre SQL
-<li>
-<b>Visual Design:</b>Adobe Photoshop, Canva
-<li>
-<b> Microsoft Office:</b> Proficient in Microsoft Office Suite
-<li>
-<b>Cloud Services:</b> Amazon Web Services
-<li>
-<b> Mathematics:</b> Proficient in statistical analysis, linear algebra, probability theory, calculus, and mathematical modelling. <br>
-</li>
 
  # Achievement
 <li>
