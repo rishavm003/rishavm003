@@ -114,6 +114,7 @@ class RishavKumarMishra:
 
 <br/><br/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishavm003&theme=github-compact&bg_color=0d1117&color=00d4ff&line=7b2fff&point=ffffff&hide_border=true&v=1" width="100%"/>
 
 
 </div>
