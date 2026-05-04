@@ -104,8 +104,7 @@ class RishavKumarMishra:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rishavm003&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2fff&text_color=c9d1d9&ring_color=00d4ff&v=1&v=0" height="170"/>
-&nbsp;&nbsp;
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavm003&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&v=1&v=0" height="170"/>
 
 <br/><br/>
